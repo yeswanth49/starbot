@@ -245,7 +245,7 @@ export async function POST(req: Request) {
 
   const result = streamText({
     model: model.languageModel(selectedModel),
-    system: "You are a helpful assistant. Always carefully analyze the predefined pasted content before responding to the question. Answer with multiple ice cream emojis 🍦🍨🍧. and love emojis",
+    system: "You are a helpful assistant. Always carefully analyze the predefined pasted content before responding to the question. Answer with few icecream. and heart emojis",
     messages,
     tools: {
       getWeather: weatherTool,
