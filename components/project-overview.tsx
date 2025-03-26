@@ -4,7 +4,11 @@ export const ProjectOverview = () => {
     <div className="flex flex-col items-center justify-end">
       <h1 className="text-3xl font-semibold mb-4">starBOT</h1>
       <p className="text-center">
-      provides everything that is necessary, resources available on PEC.UP
+      provides everything that is necessary, resources available on
+        {" "}
+        <Link href="https://pecup.in">
+        PEC.UP
+        </Link>
       </p>
     </div>
   );
