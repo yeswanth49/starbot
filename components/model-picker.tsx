@@ -18,6 +18,10 @@ const MODELS: Record<modelID, string> = {
   "llama-3.1-8b-instant": "A fast cheap model",
   "deepseek-r1-distill-llama-70b": "A reasoning model",
   "llama-3.3-70b-versatile": "A large model",
+  "llama-3.3-70b-specdec": "A basic model",
+  "llama-3.2-1b-preview": "basic",
+  "gemini-2.5-pro-exp-03-25": "Google's advanced reasoning model", // Add Gemini 2.5 Pro
+  "gpt-4o-mini": "gpt-4o-mini",
 };
 
 export const ModelPicker = ({
