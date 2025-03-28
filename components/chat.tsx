@@ -10,7 +10,7 @@ import { Messages } from "./messages";
 import { Header } from "./header";
 
 export default function Chat() {
-  const [selectedModel, setSelectedModel] = useState<modelID>("mistral-small-2503");
+  const [selectedModel, setSelectedModel] = useState<modelID>("gemini-2.0-flash");
   const {
     messages,
     input,

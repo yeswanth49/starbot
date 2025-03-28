@@ -17,6 +17,7 @@ import {
   StopCircle,
 } from "lucide-react";
 import { SpinnerIcon } from "./icons";
+import { pIcon } from "./icons";
 
 interface ReasoningPart {
   type: "reasoning";

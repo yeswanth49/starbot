@@ -221,8 +221,6 @@ Kavya Sri
 ### [Request Resources](https://wa.me/919676242565)
 
 ![Home](https://pecup.in/images/dots.gif)
-
-links for p&s assignemnts  
 `;
 
 // Allow streaming responses up to 30 seconds
