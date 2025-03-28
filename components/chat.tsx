@@ -10,7 +10,7 @@ import { Messages } from "./messages";
 import { Header } from "./header";
 
 export default function Chat() {
-  const [selectedModel, setSelectedModel] = useState<modelID>("deepseek-r1-distill-llama-70b");
+  const [selectedModel, setSelectedModel] = useState<modelID>("mistral-small-2503");
   const {
     messages,
     input,

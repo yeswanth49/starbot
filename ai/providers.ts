@@ -1,6 +1,7 @@
 import { groq } from "@ai-sdk/groq";
 import { google } from "@ai-sdk/google"; // Import Google provider
-import { openai } from "@ai-sdk/openai"
+import { openai } from "@ai-sdk/openai";
+import { mistral } from '@ai-sdk/mistral';
 import {
   customProvider,
   extractReasoningMiddleware,
@@ -23,6 +24,8 @@ export const model = customProvider({
     "gemini-2.5-pro-exp-03-25": google("gemini-2.5-pro-exp-03-25"), // Add Gemini 2.5 Pro
     "gpt-4o-mini": openai('gpt-4o-mini'),
     "gemini-2.0-flash": google('gemini-2.0-flash'),
+    "mistral-small-2503": google('mistral-small-2503'),
+
   },
 });
 
