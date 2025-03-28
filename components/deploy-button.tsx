@@ -5,8 +5,8 @@ export const DeployButton = () => (
   <div className="flex items-center gap-4">
     <Button
       type="button"
-      variant={'secondary'}
-      className="rounded-xl bg-amber-200 pointer-events-auto"
+      variant="secondary"
+      className="rounded-xl bg-[#ff5733] pointer-events-auto"
       onClick={() => window.location.reload()}
     >
       <Plus size={18} className="text-black" />
