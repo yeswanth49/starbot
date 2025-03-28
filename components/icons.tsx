@@ -148,14 +148,3 @@ export const PecUpIcon = ({ size = 16 }) => {
   );
 };
 
-export const pIcon = ({ size = 24, alt = "Custom Icon", src }) => {
-  return (
-    <img
-      src={src}
-      alt={alt}
-      width={size}
-      height={size}
-      style={{ display: "inline-block" }}
-    />
-  );
-};
