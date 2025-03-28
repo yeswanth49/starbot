@@ -22,6 +22,7 @@ export const model = customProvider({
     "llama-3.2-1b-preview": groq("llama-3.2-1b-preview"),
     "gemini-2.5-pro-exp-03-25": google("gemini-2.5-pro-exp-03-25"), // Add Gemini 2.5 Pro
     "gpt-4o-mini": openai('gpt-4o-mini'),
+    "gemini-2.0-flash": google('gemini-2.0-flash'),
   },
 });
 
