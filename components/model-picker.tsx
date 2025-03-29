@@ -15,12 +15,10 @@ interface ModelPickerProps {
 }
 
 const MODELS: Record<modelID, string> = {
-  "deepseek-r1-distill-llama-70b": "A reasoning model",
-  "llama-3.3-70b-versatile": "A large model",
-  "gemini-2.5-pro-exp-03-25": "Google's advanced reasoning model", // Add Gemini 2.5 Pro
-  "gpt-4o-mini": "gpt-4o-mini",
-  "gemini-2.0-flash": "gemini-2.0-flash",
-  "mistral-small-2503": "mistral-small-2503",
+  "gemini-2.5-pro-exp-03-25": "Google's advanced reasoning model",
+  "gemini-2.0-flash": "Gemini 2.0 Flash",
+  "mistral-small-2503": "Mistral Small Latest",
+  "gpt-4o-mini": "GPT-4O Mini",
 };
 
 export const ModelPicker = ({
