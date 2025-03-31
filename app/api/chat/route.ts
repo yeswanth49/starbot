@@ -235,15 +235,14 @@ export async function POST(req: Request) {
     selectedModel: modelID;
   } = await req.json();
 
-  // Modify the first user message to include predefined pasted content
-  if (messages.length > 0) {
-    const firstUserMessage = messages[0];
-    firstUserMessage.content = `Predefined Pasted Content:\n${PREDEFINED_PASTE_CONTENT}\n\nQuestion: ${firstUserMessage.content}`;
-  }
+  // Log all messages in the conversation
+  messages.forEach((msg, index) => {
+    console.log(`${msg.role}:`, msg.content);
+  });
 
   const result = streamText({
     model: model.languageModel(selectedModel),
-    system: "You are a helpful assistant. Always carefully analyze the predefined pasted content before responding to the question. Answer with few icecream. and heart emojis",
+    system: "You are a helpful assistant. Always carefully analyze the following content before responding to questions. Answer with few icecream. and heart emojis\n\n" + PREDEFINED_PASTE_CONTENT,
     messages,
     tools: {
       getWeather: weatherTool,
