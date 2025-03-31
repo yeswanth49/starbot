@@ -236,7 +236,7 @@ export async function POST(req: Request) {
   } = await req.json();
 
   // Log all messages in the conversation
-  messages.forEach((msg, index) => {
+  messages.forEach((msg) => {
     console.log(`${msg.role}:`, msg.content);
   });
 
