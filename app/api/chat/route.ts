@@ -21,7 +21,8 @@ Welcome to our website, where we provide a range of useful study resources to su
 We offer previous year question papers for various examinations, including mid-semester exams (Mid-1, Mid-2),
 regular semester exams under the R23 regulations.
 
- [⇒ Syllabus](https://drive.google.com/file/d/1Eb7b2CQld4TMW9PuMEwOuqv3FRVWKpVe/view?usp=sharing) [⇒ Mid-1 Timetable](https://drive.google.com/file/d/1uvZncVUjhuw-AxKh3BecklX2pMTBjSdy/view?usp=sharing) [⇒ Mid-2 Timetable](https://drive.google.com/file/d/1RLr9DZyDgDwJq9t0vKgScr-syPoHVANF/view?usp=sharing)
+ [⇒ Syllabus](https://drive.google.com/file/d/1Eb7b2CQld4TMW9PuMEwOuqv3FRVWKpVe/view?usp=sharing) [⇒ Mid-1 Timetable](https://drive.google.com/file/d/1uvZncVUjhuw-AxKh3BecklX2pMTBjSdy/view?usp=sharing) [⇒ Mid-2 Timetable](https://drive.google.com/file/d/1X3ISvYPKOz_woK2aDXsWAQ4MiMu6tYvh/view?usp=sharing)
+ [⇒ SEM Timetable](https://drive.google.com/file/d/1X6AQVCnm3ieDnLKZ5fwrZUVk4wRo2Qn_/view?usp=sharing)
 
 Our offerings include:
 
@@ -40,11 +41,9 @@ Remaining Resources will be updated shortly..
 
 ## Deadlines
 
-Mid-2 Examinations Starts: 9 April 2025
-\[14 days left\]
+Mid-2 Examinations Starts: 8 April 2025
 
-Mid-2 Examinations Ends: 11 April 2025
-\[16 days left\]
+Mid-2 Examinations Ends: 12 April 2025
 
 # Resources
 
@@ -73,7 +72,7 @@ Mid-2 Examinations Ends: 11 April 2025
 - [P&S](https://drive.google.com/file/d/1T0j43U_yqhSXMiMbp7jp_KS0gsqoIls7/view?usp=sharing)
 - [DBMS](https://drive.google.com/file/d/1T9Os1kW8XjdAZhX3W0YwPL6l5dohLK0U/view?usp=sharing)
 - [MEFA](https://drive.google.com/file/d/1QjwNTaWyEsQS7fWDwBcny9d8DfjywRiO/view?usp=sharing)
-- [OS](https://drive.google.com/file/d/1QFV-T9x2GXOFxn0PKIP1NHAUY8xGKB6f/view?usp=sharing)
+- [OS](https://drive.google.com/file/d/1WuE38B0LfWhksAgoqX-IWfScc2SygJs-/view?usp=sharing)
 - [SE](https://drive.google.com/file/d/1SLNFUs63mioiHgXAksFmIM_Yw8HtIDwS/view?usp=sharing)
 
 ### Unit 4
@@ -81,7 +80,7 @@ Mid-2 Examinations Ends: 11 April 2025
 - [P&S](https://drive.google.com/file/d/1SzpU6zgLPhhGPbzblMLAVvbkJ6VHBNV1/view?usp=sharing)
 - [DBMS](https://drive.google.com/file/d/1TB-EbMZfqEFQ43i3DsuX17pOh3LSdaR4/view?usp=sharing)
 - [MEFA](https://drive.google.com/file/d/1SQFg561wtN5kUDK3DTI6Ob94yWml2gUh/view?usp=sharing)
-- [OS](https://drive.google.com/file/d/1T4D_fisX41tpNW0PTRwlwCzGlKHUl3Vn/view?usp=sharing)
+- [OS](https://drive.google.com/file/d/1X0QhoWb-YkuebIVTcsFfwrXuIYozXE9v/view?usp=sharing)
 - [SE](https://drive.google.com/file/d/1S-ruFr--_ZKBgkdUZKjzYgANTSCxs2aq/view?usp=sharing)
 
 ### Unit 5
@@ -89,10 +88,8 @@ Mid-2 Examinations Ends: 11 April 2025
 - [P&S](https://drive.google.com/file/d/1T0UGa6YPA9jkrBOAsjMaT7rYcbHBlq8H/view?usp=sharing)
 - [DBMS](https://drive.google.com/file/d/1Qk0hPlY1vPB-DGybvuEV9rMN_LXQ5txu/view?usp=sharing)
 - [MEFA](https://drive.google.com/file/d/1RK7sw63k3QYFxquptSD4MaTaZ4SptCpT/view?usp=sharing)
-- [OS](https://drive.google.com/file/d/1T2m4k0s2vGBm9ztcdIFlq4Gfx29z8euH/view?usp=sharing)
+- [OS](https://drive.google.com/file/d/1X2lk1DDuengQg_FL916PzbH78IXLx_0I/view?usp=sharing)
 - [SE](https://drive.google.com/file/d/1Rp5DR_oLG_CwxzNGd8K7kiYqsu9zBWf2/view?usp=sharing)
-
-## Assignments  [!](https://pecup.in/\#resources)
 
 ### Assignment 1
 
@@ -112,6 +109,7 @@ Mid-2 Examinations Ends: 11 April 2025
 
 ### Assignment 3
 
+- [P&S](https://drive.google.com/file/d/1WvDJ_GsG9EQp2xly2Bmr7ZYlDLi_mFJu/view?usp=sharing) 
 - [DBMS](https://drive.google.com/file/d/1RB9PIR9b00JmCmHW3y26aPg3PiWBD-wy/view?usp=sharing)
 - [MEFA](https://drive.google.com/file/d/1RHFUBVt1PIEIa3MdFnUc5i1tb2ayIViR/view?usp=sharing)
 - [OS](https://drive.google.com/file/d/1Q6Hmgu1fzWCrhRSomOvhQY7mBA88wyCh/view?usp=sharing)
@@ -119,6 +117,7 @@ Mid-2 Examinations Ends: 11 April 2025
 
 ### Assignment 4
 
+- [P&S](https://drive.google.com/file/d/1Wwd1ZPaSFaV8eyTPUvQIj6EA4UqZkNC4/view?usp=sharing)
 - [DBMS](https://drive.google.com/file/d/1RH9SxMzPkaNPQGmHwuYjtf93UP1vbR_U/view?usp=sharing)
 - [MEFA](https://drive.google.com/file/d/1RN5RZy_6KWy3cIjb8Bvd7x2aVFPh8_vh/view?usp=sharing)
 - [OS](https://drive.google.com/file/d/1QCnt0YbWgM5UVyr811aL4TM8RT_AIM81/view?usp=sharing)
@@ -126,15 +125,30 @@ Mid-2 Examinations Ends: 11 April 2025
 
 ### Assignment 5
 
+- [P&S](https://drive.google.com/file/d/1X16crA_DSwcQQfhoD6rsAGaTODh2qFMr/view?usp=sharing)
 - [MEFA](https://drive.google.com/file/d/1RPLPtYNZw3BlV_ezBXeN17N4bTwuDw-e/view?usp=sharing)
 - [OS](https://drive.google.com/file/d/1QCncs0M3CArgtyjycQuVRtIkQBR7MKyf/view?usp=sharing)
 - [SE](https://drive.google.com/file/d/1Reu_y1H6aj9dLf-vaUc1Nitg7QhUskxu/view?usp=sharing)
 
-## Records  [!](https://pecup.in/\#resources)
+Study Materials
+
+P&S Textbook Unit 5 - (https://drive.google.com/file/d/1XRWELc7hbfFxQIsyttd-SxQR7p1wMWWn/view?usp=sharing)
+P&S Textbook Unit 4 - (https://drive.google.com/file/d/1XV1-n8TZk_cWrwFZKV93ZLIY7bX67A84/view?usp=sharing)
+P&S Textbook Unit 3 - (https://drive.google.com/file/d/1XWLEKYXP1jIH54NnilTpSUAk5w8tErh9/view?usp=sharing)
 
 ### Week 1-3
 
 - [Full Stack Web](https://drive.google.com/file/d/1IenuCR0UgxLlWz0_Rf1Xq-UiKn-NZxny/view?usp=sharing)
+
+## Year 2 Sem 2
+
+### Mid 1
+
+- [P&S](https://drive.google.com/file/d/1XCYekiF4aYM0JjG1kF9PNs0jumQ4ibfp/view?usp=sharing)
+- [DBMS](https://drive.google.com/file/d/1XDyeod4A4WXi1AEDOgSpHZLvl8nVdkyb/view?usp=sharing)
+- [MEFA](https://drive.google.com/file/d/1XK4kPMoMiviU2kMCs9XRX3g-QhwSq-VH/view?usp=sharing)
+- [OS](https://drive.google.com/file/d/1X6uv7rhQDYmVK0gf9QLUkQpWZjlj8ju3/view?usp=sharing)
+- [SE](https://drive.google.com/file/d/1XIH4tYUfeJDSCnxdR1HHn1egN4xmmoZu/view?usp=sharing)
 
 # Archive
 
