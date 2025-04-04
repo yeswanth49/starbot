@@ -23,7 +23,7 @@ export const model = customProvider({
       model: groq("deepseek-r1-distill-llama-70b"),
     }),
     "llama-3.3-70b-versatile": groq("llama-3.3-70b-versatile"),
-    "gemini-2.5-pro-exp-03-25": google("gemini-2.5-pro-exp-03-25"), // Add Gemini 2.5 Pro
+    "gemini-2.5-pro-exp-03-25": google("gemini-2.5-pro-exp-03-25"),
     "gpt-4o-mini": openai('gpt-4o-mini'),
     "gemini-2.0-flash": google('gemini-2.0-flash'),
     "mistral-small-2503": mistral('mistral-small-2503'),
