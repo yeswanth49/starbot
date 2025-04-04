@@ -2,11 +2,16 @@ import { groq } from "@ai-sdk/groq";
 import { google } from "@ai-sdk/google"; // Import Google provider
 import { openai } from "@ai-sdk/openai";
 import { mistral } from '@ai-sdk/mistral';
+import { createOpenRouter } from '@openrouter/ai-sdk-provider';
 import {
   customProvider,
   extractReasoningMiddleware,
   wrapLanguageModel,
 } from "ai";
+
+const openrouter = createOpenRouter({
+  apiKey: process.env.OPENROUTER_API_KEY,
+});
 
 
 export const model = customProvider({
@@ -22,6 +27,7 @@ export const model = customProvider({
     "gpt-4o-mini": openai('gpt-4o-mini'),
     "gemini-2.0-flash": google('gemini-2.0-flash'),
     "mistral-small-2503": mistral('mistral-small-2503'),
+    "openrouter/quasar-alpha": openrouter("openrouter/quasar-alpha"),
 
   },
 });

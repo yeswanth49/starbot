@@ -21,6 +21,7 @@ const MODELS: Record<modelID, string> = {
   "gpt-4o-mini": "gpt-4o-mini",
   "gemini-2.0-flash": "gemini-2.0-flash",
   "mistral-small-2503": "mistral-small-2503",
+  "openrouter/quasar-alpha": "openrouter/quasar-alpha",
 };
 
 export const ModelPicker = ({
