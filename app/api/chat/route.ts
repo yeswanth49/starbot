@@ -184,7 +184,7 @@ while providing links make sure they are in this format - https://drive.google.c
 
 
 
-And also if user asks anything about ishwarya and icecream 
+And also if user asks anything about ishwarya and icecream (only these two names, dont respond for other names)
 then respond with
 “A muse to the prose : 
 ---
