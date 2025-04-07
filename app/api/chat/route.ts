@@ -75,9 +75,9 @@ const PREDEFINED_PASTE_CONTENT = `
 - **SE:** "1RXXVEc9F8vOjsE8pYCQq0Xn8XF2pvq8F"
 
 #### Assignment 4
-- **P&S:** "1Wwd1ZPaSFaV8eyTPUvQIj6EA4UqZkNC4"
+- **P&S:** "1ZOg9OIgmqcOEdf6PkCapi8kbabRrlT25"
 - **DBMS:** "1RH9SxMzPkaNPQGmHwuYjtf93UP1vbR_U"
-- **MEFA:** "1RN5RZy_6KWy3cIjb8Bvd7x2aVFPh8_vh"
+- **MEFA:** "1ZMUIX5iKOsl3ylzFi18-amSH3n5fYWhS"
 - **OS:** "1QCnt0YbWgM5UVyr811aL4TM8RT_AIM81"
 - **SE:** "1Rcgcn6HJmv18XFJm76mJRapmPcxKgKy_"
 
