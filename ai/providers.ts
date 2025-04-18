@@ -25,7 +25,7 @@ export const model = customProvider({
     "llama-3.3-70b-versatile": groq("llama-3.3-70b-versatile"),
     "gemini-2.5-pro-exp-03-25": google("gemini-2.5-pro-exp-03-25"),
     "gpt-4o-mini": openai('gpt-4o-mini'),
-    "gemini-2.0-flash": google('gemini-2.0-flash'),
+    "gemini-2.5-flash-preview-04-17": google('gemini-2.5-flash-preview-04-17'),
     "mistral-small-2503": mistral('mistral-small-2503'),
     "openrouter/quasar-alpha": openrouter("openrouter/quasar-alpha"),
 

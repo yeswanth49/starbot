@@ -19,7 +19,7 @@ const MODELS: Record<modelID, string> = {
   "llama-3.3-70b-versatile": "A large model",
   "gemini-2.5-pro-exp-03-25": "Google's advanced reasoning model", // Add Gemini 2.5 Pro
   "gpt-4o-mini": "gpt-4o-mini",
-  "gemini-2.0-flash": "gemini-2.0-flash",
+  "gemini-2.5-flash-preview-04-17": "gemini-2.5-flash-preview-04-17",
   "mistral-small-2503": "mistral-small-2503",
   "openrouter/quasar-alpha": "openrouter/quasar-alpha",
 };
