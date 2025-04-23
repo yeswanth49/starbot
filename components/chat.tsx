@@ -40,7 +40,7 @@ export default function Chat() {
       {messages.length === 0 ? (
         <div className="max-w-xl mx-auto w-full">
           <ProjectOverview />
-          {/* <SuggestedPrompts sendMessage={sendMessage} /> */}
+          <SuggestedPrompts sendMessage={sendMessage} />
         </div>
       ) : (
         <Messages messages={messages} isLoading={isLoading} status={status} />
